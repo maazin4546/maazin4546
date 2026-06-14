@@ -1,36 +1,233 @@
-<h1 align="center">Hi, I'm Maazin Abdullah</h1>
-<h3 align="center">A Passionate Web Developer</h3>
+<h1 align="center">Maazin Abdullah</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=maazin4546&label=Profile%20views&color=0e75b6&style=flat" alt="maazin4546" /> </p>
+<h3 align="center">
+Full Stack Developer | MERN Stack | React.js | Node.js | Building Scalable Web Applications
+</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=maazin4546" alt="maazin4546" /></a> </p>
-
-- 🔭 I’m currently working on **Next.Js**
-
-- 🌱 I’m currently learning **Next.Js, Mongodb, NodeJs and etc**
-
-- 👨‍💻 All of my projects are available at [https://maazin4546.github.io/Portfolio/](https://maazin4546.github.io/Portfolio/)
-
-- 📝 I regularly write articles on [https://next-blog-one-ruby.vercel.app/?vercelToolbarCode=hRbIevuj4CAMqyK](https://next-blog-one-ruby.vercel.app/?vercelToolbarCode=hRbIevuj4CAMqyK)
-
-- 💬 Ask me about **React, Javascript, Express**
-
-- 📫 How to reach me **mazinabdullah4546@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1MHNSbVStB2sXqdngguffW_nAGgj2-S0X/view](https://drive.google.com/file/d/1MHNSbVStB2sXqdngguffW_nAGgj2-S0X/view)
-
-- ⚡ Fun fact **Can Sleep anytime also wakeup anytime.**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/maazin abdullah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="maazin abdullah" height="30" width="40" /></a>
-<a href="https://fb.com/mazin_ansari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mazin_ansari" height="30" width="40" /></a>
-<a href="https://instagram.com/maazin_abd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="maazin_abd" height="30" width="40" /></a>
+<p align="center">
+  <a href="mailto:mzinabdullah4546@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
+  </a>
+  <a href="https://linkedin.com/in/maazin-abdullah">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://github.com/maazin4546">
+    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=maazin4546&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=maazin4546&show_icons=true&locale=en&layout=compact" alt="maazin4546" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=maazin4546&show_icons=true&locale=en" alt="maazin4546" /></p>
+# 🚀 About Me
+
+💻 Full Stack Developer with **1.5+ years of professional experience** building modern web applications using the MERN Stack.
+
+🔹 Experienced in developing scalable web applications, REST APIs, authentication systems, ERP integrations, and SaaS platforms.
+
+🔹 Passionate about software architecture, system design, cloud technologies, and AI-powered applications.
+
+🔹 Currently preparing for opportunities in **India, Europe, UAE, Canada, UK, and the US**.
+
+---
+
+# 💼 Professional Experience
+
+### 🏢 Full Stack Web Developer
+**Noorisys Pvt Ltd**
+
+- Developed and maintained production-grade applications.
+- Built scalable REST APIs using Node.js and Express.js.
+- Developed responsive front-end applications using React.js.
+- Integrated third-party APIs and ERP systems.
+- Worked with authentication, authorization, and secure application design.
+- Collaborated with cross-functional teams using Git workflows.
+
+### 🏢 Web Development Intern
+**Code Clause**
+
+- Developed responsive web applications.
+- Worked on both frontend and backend development.
+- Improved software engineering and problem-solving skills.
+
+---
+
+# 🏆 Featured Projects
+
+## 📄 ZakDoc
+
+AI-powered invoice processing and management platform.
+
+### Key Features
+
+✅ Invoice Data Extraction
+
+✅ Document Processing Automation
+
+✅ Invoice Categorization
+
+✅ Database Management
+
+✅ Zoho Books Integration
+
+✅ Multi-user Invoice Synchronization
+
+### Tech Stack
+
+`React.js` `Node.js` `Express.js` `MongoDB` `Zoho Books API`
+
+---
+
+## 🔗 Dolibarr ERP Integration
+
+Successfully integrated Dolibarr ERP with a custom platform.
+
+### Achievements
+
+- User authentication through Dolibarr credentials
+- ERP data synchronization
+- Data categorization and management
+- Redundancy handling
+- API optimization
+
+### Tech Stack
+
+`React.js` `Node.js` `Express.js` `REST APIs`
+
+---
+
+## 💰 Treasury Management System
+
+Enterprise application designed for treasury and financial operations.
+
+### Tech Stack
+
+`React.js` `Node.js` `SQL` `REST APIs`
+
+---
+
+## 👥 SaaS Recruitment Platform
+
+Recruitment management platform with authentication and workflow automation.
+
+### Tech Stack
+
+`React.js` `Node.js` `MongoDB` `Express.js`
+
+---
+
+# 🛠️ Tech Stack
+
+## Frontend
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,bootstrap" />
+</p>
+
+## Backend
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+## Database
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+</p>
+
+## Cloud & Tools
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=aws,git,github,postman,vscode" />
+</p>
+
+---
+
+# 🌱 Currently Learning
+
+- Advanced Node.js
+- System Design
+- Data Structures & Algorithms
+- LLM Engineering
+- AWS Cloud
+- Microservices Architecture
+- AI-Powered Applications
+
+---
+
+# 🎯 Career Goals
+
+✔ Build scalable SaaS products
+
+✔ Become an expert Backend Engineer
+
+✔ Master System Design
+
+✔ Work on Cloud-Native Applications
+
+✔ Explore AI & LLM Engineering
+
+✔ Contribute to Open Source Projects
+
+---
+
+# 📈 GitHub Analytics
+
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=maazin4546&show_icons=true&theme=tokyonight" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maazin4546&layout=compact&theme=tokyonight" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=maazin4546&theme=tokyonight" />
+</p>
+
+---
+
+# 🏅 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=maazin4546&theme=tokyonight&row=1&column=7" />
+</p>
+
+---
+
+# 📚 Current Focus Areas
+
+```text
+Backend Development      ████████████████████ 95%
+React Development        ██████████████████░ 90%
+System Design            ███████████████░░░░ 75%
+AWS Cloud                ████████████░░░░░░ 65%
+LLM Engineering          ██████████░░░░░░░░ 55%
+DSA & Interview Prep     ███████████████░░░░ 75%
+````
+
+---
+
+# 🤝 Let's Connect
+
+<p align="center">
+<a href="mailto:mzinabdullah4546@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail" />
+</a>
+
+<a href="https://linkedin.com/in/maazin-abdullah">
+<img src="https://img.shields.io/badge/LinkedIn-Maazin%20Abdullah-blue?style=for-the-badge&logo=linkedin" />
+</a>
+
+<a href="https://maazin4546.github.io/Portfolio/">
+<img src="https://img.shields.io/badge/Portfolio-Visit-success?style=for-the-badge&logo=google-chrome" />
+</a>
+</p>
+
+---
+
+<h3 align="center">
+⭐ Open to Full Stack Developer Opportunities Across India, Europe, UAE, UK, Canada & US ⭐
+</h3>
+```
